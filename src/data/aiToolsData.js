@@ -15,6 +15,18 @@ export const categories = [
 
 export const aiTools = [
   {
+    id: 'auferet',
+    name: 'Auferet',
+    category: 'writing',
+    description: 'AI game master for solo text adventures and tabletop RPGs that remembers your story and reads your uploaded lore.',
+    url: 'https://auferet.com',
+    icon: '🎲',
+    tags: ['roleplay', 'text adventure', 'rpg', 'storytelling'],
+    rating: 4.5,
+    isFavorite: false,
+    dateAdded: '2026-06-23',
+  },
+  {
     id: 'chatgpt',
     name: 'ChatGPT',
     category: 'chat',
